@@ -1,1 +1,1 @@
-| :label: Tecnologias | html, css, javascript, node.js, api, json
+:label: Tecnologias: html, css, javascript, node.js, api, json
